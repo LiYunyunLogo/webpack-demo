@@ -1,0 +1,127 @@
+{"frames": {
+
+"arricon1.png":
+{
+	"frame": {"x":442,"y":383,"w":35,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":23},
+	"sourceSize": {"w":35,"h":23}
+},
+"arricon2.png":
+{
+	"frame": {"x":449,"y":187,"w":35,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":23},
+	"sourceSize": {"w":35,"h":23}
+},
+"arricon3.png":
+{
+	"frame": {"x":449,"y":212,"w":35,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":23},
+	"sourceSize": {"w":35,"h":23}
+},
+"arricon4.png":
+{
+	"frame": {"x":449,"y":237,"w":35,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":23},
+	"sourceSize": {"w":35,"h":23}
+},
+"bottom.png":
+{
+	"frame": {"x":341,"y":187,"w":132,"h":106},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":106},
+	"sourceSize": {"w":132,"h":106}
+},
+"btn.png":
+{
+	"frame": {"x":1,"y":1,"w":410,"h":154},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":410,"h":154},
+	"sourceSize": {"w":410,"h":154}
+},
+"coinicon.png":
+{
+	"frame": {"x":442,"y":321,"w":58,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":60},
+	"sourceSize": {"w":58,"h":60}
+},
+"griddle.png":
+{
+	"frame": {"x":157,"y":1,"w":168,"h":183},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":183},
+	"sourceSize": {"w":168,"h":183}
+},
+"head.png":
+{
+	"frame": {"x":352,"y":321,"w":88,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":88},
+	"sourceSize": {"w":88,"h":88}
+},
+"headbg.png":
+{
+	"frame": {"x":157,"y":301,"w":111,"h":137},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":137},
+	"sourceSize": {"w":111,"h":137}
+},
+"heye.png":
+{
+	"frame": {"x":342,"y":1,"w":184,"h":137},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":137},
+	"sourceSize": {"w":184,"h":137}
+},
+"progressbg.png":
+{
+	"frame": {"x":305,"y":171,"w":153,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":153,"h":34},
+	"sourceSize": {"w":155,"h":36}
+},
+"walleticon.png":
+{
+	"frame": {"x":296,"y":326,"w":54,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":85},
+	"sourceSize": {"w":54,"h":85}
+},
+"walleticon2.png":
+{
+	"frame": {"x":157,"y":171,"w":146,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":128},
+	"sourceSize": {"w":146,"h":128}
+}},
+"animations": {
+	"arricon": ["arricon1.png","arricon2.png","arricon3.png","arricon4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game.png",
+	"format": "RGBA8888",
+	"size": {"w":501,"h":413},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e57fd9374933133af7cccf7cf090141:e946f4541932c330c92842c058142756:fc2835210f98bae8e8c1b7f0a84c9321$"
+}
+}
